@@ -6,7 +6,7 @@ WebGL link:https://skybainiao.github.io/asimplegame/
 
 
 All scripts are written by ourselves.
-We use a lot of assets, but only a small part, such as prefabs of game characters, background music of the game, game maps, prefabs of guns and bullets.
+We use assets from assets store, but only a small part, such as prefabs of game characters, background music of the game, game maps, prefabs of guns and bullets.
 
 
 What we used from Asset Store:

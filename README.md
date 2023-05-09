@@ -1,13 +1,16 @@
 # Sep6GMD
 
 Youtube link:https://youtu.be/-Rx4rgsf64Q
+
 WebGL link:https://skybainiao.github.io/asimplegame/
 
 
 All scripts are written by ourselves.
 We use a lot of assets, but only a small part, such as prefabs of game characters, background music of the game, game maps, prefabs of guns and bullets.
 
+
 What we used from Asset Store:
+
 https://assetstore.unity.com/packages/2d/environments/2d-hand-painted-platformer-environment-227159
 https://assetstore.unity.com/packages/2d/textures-materials/2d-sci-fi-weapons-pack-22679
 https://assetstore.unity.com/packages/audio/music/arcade-game-bgm-3-173560
